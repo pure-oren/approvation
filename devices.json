@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "id": "abc123def456",
+      "name": "Owner Device",
+      "expiry": "9999-12-31"
+    },
+    {
+      "id": "xyz789uvw012", 
+      "name": "User 1",
+      "expiry": "2025-12-31"
+    }
+  ]
+}
