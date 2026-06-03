@@ -1,19 +1,16 @@
 {
   "devices": [
     {
-      "id": "dd95a3bfd8ba4",
-      "name": "Owner Device",
-      "expiry": "9999-12-31"
+      "id": "5be802ea187293d2",
+      "name": "Owner",
+      "expiry": "9999-12-31",
+      "plan": "premium"
     },
     {
-      "id": "xyz789uvw012", 
-      "name": "User 1",
-      "expiry": "2025-12-31"
-    },
-      {
-      "id": "dd95a3bfd8ba4b6b",
-      "name": "Owner",
-      "expiry": "9999-12-31"
-    },
+      "id": "12f0786d1044ea32",
+      "name": "Free User",
+      "expiry": "2026-12-31",
+      "plan": "free"
+    }
   ]
 }
