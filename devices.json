@@ -17,6 +17,12 @@
       "name": "ed",
       "expiry": "2026-6-8",
       "plan": "premium"
+    },
+    {
+      "id": "d1af79c799d11a2e",
+      "name": "edtv",
+      "expiry": "2026-6-8",
+      "plan": "premium"
     }
   ]
 }
