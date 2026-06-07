@@ -7,6 +7,12 @@
       "plan": "premium"
     },
     {
+      "id": "1223c6f4e1f79b8d",
+      "name": "Owner",
+      "expiry": "9999-12-31",
+      "plan": "premium"
+    },
+    {
       "id": "450fbe14493facf5",
       "name": "Free User",
       "expiry": "2026-12-31",
