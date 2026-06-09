@@ -64,13 +64,13 @@
     {
       "id": "a67130aeafa69a88",
       "name": "premiumd",
-      "expiry": "2026-6-30",
+      "expiry": "2027-6-30",
       "plan": "premium"
     },
     {
-      "id": "",
-      "name": "",
-      "expiry": "2026-6-30",
+      "id": "3677f00a8971a058",
+      "name": "indat",
+      "expiry": "2027-6-30",
       "plan": "premium"
     },
     {
