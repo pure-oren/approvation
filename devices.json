@@ -3,13 +3,13 @@
     {
       "id": "51add6ce65f12f56",
       "name": "reymar",
-      "expiry": "2026-6-30",
+      "expiry": "2026-06-30",
       "plan": "premium"
     },
     {
       "id": "1346bebb14489cd9",
       "name": "jasonarucan",
-      "expiry": "2027-6-30",
+      "expiry": "2027-06-30",
       "plan": "premium"
     },
     {
@@ -21,13 +21,13 @@
     {
       "id": "b8822c7cb539e7c5",
       "name": "johnang",
-      "expiry": "2026-8-31",
+      "expiry": "2026-08-31",
       "plan": "premium"
     },
     {
       "id": "daa8b4ae7a10c5c5",
       "name": "Carl Sheen",
-      "expiry": "2026-6-30",
+      "expiry": "2026-06-30",
       "plan": "premium"
     },
     {
@@ -39,19 +39,19 @@
     {
       "id": "4f32bf41aafe6c15",
       "name": "elmer",
-      "expiry": "2026-6-30",
+      "expiry": "2026-06-30",
       "plan": "premium"
     },
     {
       "id": "483837f7bb4a35a7",
       "name": "test",
-      "expiry": "2026-6-30",
+      "expiry": "2026-06-30",
       "plan": "premium"
     },
     {
       "id": "8a9e0d4a21b564d5",
       "name": "ed2",
-      "expiry": "2027-6-30",
+      "expiry": "2027-06-30",
       "plan": "premium"
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": "a67130aeafa69a88",
       "name": "premiumd",
-      "expiry": "2027-6-30",
+      "expiry": "2027-06-30",
       "plan": "premium"
     },
     {
@@ -75,13 +75,13 @@
     {
       "id": "1cf46814947fe1f6",
       "name": "john",
-      "expiry": "2027-6-30",
+      "expiry": "2027-06-30",
       "plan": "premium"
     },
     {
       "id": "ffcfa0e5bcc29d0c",
       "name": "john",
-      "expiry": "2027-6-30",
+      "expiry": "2027-06-30",
       "plan": "premium"
     },
     {
@@ -93,31 +93,31 @@
     {
       "id": "d1679560715473c8",
       "name": "Ron Sat",
-      "expiry": "2027-6-31",
+      "expiry": "2027-06-31",
       "plan": "premium"
     },
     {
       "id": "d6d9cb3c38faf5e6",
       "name": "vincent",
-      "expiry": "2027-6-31",
+      "expiry": "2027-06-31",
       "plan": "premium"
     },
     {
       "id": "b9022a80678555f9",
       "name": "jeric danila",
-      "expiry": "2027-1-31",
+      "expiry": "2027-01-31",
       "plan": "premium"
     },
     {
       "id": "79942c7b1ed6bb8c",
       "name": "dennis",
-      "expiry": "2026-6-31",
+      "expiry": "2026-06-31",
       "plan": "premium"
     },
     {
       "id": "0c84214542bc7b48",
       "name": "elmer",
-      "expiry": "2027-6-31",
+      "expiry": "2027-06-31",
       "plan": "premium"
     },
     {
@@ -135,51 +135,57 @@
     {
       "id": "9f9912b6dfe5f032",
       "name": "ed",
-      "expiry": "2027-7-8",
+      "expiry": "2027-07-8",
       "plan": "premium"
     },
     {
       "id": "d1af79c799d11a2e",
       "name": "edtv",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
     },
     {
       "id": "8758730595c0aa24",
       "name": "arnelito",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
     },
     {
       "id": "f9e93e5b1b47f30a",
       "name": "bry",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
     },
     {
       "id": "d87e650c155f7d76",
       "name": "serr",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
     },
         {
       "id": "976e076a7eef2abb",
       "name": "serrr",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
         },
             {
       "id": "592f59ac93386887",
       "name": "elmerrr",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
             },
       {
       "id": "312841d7cb553a2e",
       "name": "riiio",
-      "expiry": "2027-6-8",
+      "expiry": "2027-06-8",
       "plan": "premium"
-      }
+      },
+    {
+      "id": "240262ca8d222364",
+      "name": "jaylord",
+      "expiry": "2027-06-8",
+      "plan": "free"
+      },
     
   ]
 }
