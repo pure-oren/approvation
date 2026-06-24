@@ -431,6 +431,12 @@
     "name": "MoyzTV",
     "expiry": "2027-06-30",
     "plan": "premium"
+    },
+    {
+    "id": "b244cdccceb7d20c",
+    "name": "ninya",
+    "expiry": "2027-06-30",
+    "plan": "premium"
     }
 ]
 }
